@@ -102,6 +102,10 @@
   strace
   ltrace
 
+  # Containers (docker includes the buildx CLI plugin)
+  docker
+  docker-buildx
+
   # Games
   sl
   figlet
