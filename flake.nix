@@ -11,7 +11,7 @@
 
     # Directly pull from my home-manager config repo
     ramya-home = {
-      url = "github:rskottap/home-manager";
+      url = "github:churchofcurry/home-manager";
       inputs.nixpkgs.follows = "nixpkgs";
     };
 

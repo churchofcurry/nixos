@@ -44,7 +44,7 @@ Clone the repository and set up the symlink:
 ```bash
 mkdir -pv ~/Desktop/repos
 cd ~/Desktop/repos
-git clone https://github.com/rskottap/nixos.git
+git clone https://github.com/churchofcurry/nixos.git
 cd nixos
 sudo rm -rf /etc/nixos
 ln -svf $PWD /etc/nixos

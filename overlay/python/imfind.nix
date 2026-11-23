@@ -22,7 +22,7 @@ buildPythonPackage {
   pyproject = true;
 
   src = fetchFromGitHub {
-    owner = "rskottap";
+    owner = "churchofcurry";
     repo = "imfind";
     rev = "master";
     sha256 = "sha256-AolwU3//GYKdq3LT9/sAOVbum90WTALfpXNNmzKK3DA=";
